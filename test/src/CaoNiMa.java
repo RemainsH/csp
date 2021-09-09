@@ -7,5 +7,6 @@
 public class CaoNiMa {
     public static void main(String[] args) {
         System.out.println("caonima");
+        System.out.println("caonima");
     }
 }
